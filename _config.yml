@@ -17,7 +17,7 @@ title: Alvin Manalastas
 email: a.manalastas@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my website.
-baseurl: "alvinmanalastas" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  alvinm96
@@ -25,6 +25,7 @@ logo: /assets/icons/am-light.svg
 
 # Build settings
 markdown: kramdown
+#theme: jekyll-theme-basically-basic
 remote_theme: "mmistakes/jekyll-theme-basically-basic"
 plugins:
 
